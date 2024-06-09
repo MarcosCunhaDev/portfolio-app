@@ -29,7 +29,7 @@ const TAB_DATA: TabOptionI[] = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Bachelor's Degree Electrical Engineering</li>
+        <li>Bachelors Degree Electrical Engineering</li>
         <li>University of Brasilia</li>
       </ul>
     ),
